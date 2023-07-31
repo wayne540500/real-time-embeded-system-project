@@ -12,3 +12,5 @@ the resource.
 
 ● A successful unlock must be indicated by a visual indication, such as an LED or 
 similar indicator.
+
+Demo: https://youtu.be/Y5AhhtOK0g8
